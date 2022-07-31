@@ -1,0 +1,19 @@
+# github.com/gofrs/uuid v4.0.0+incompatible
+github.com/gofrs/uuid
+# github.com/gomodule/redigo v1.8.4
+github.com/gomodule/redigo/redis
+# github.com/googollee/go-socket.io v1.6.2
+## explicit
+github.com/googollee/go-socket.io
+github.com/googollee/go-socket.io/engineio
+github.com/googollee/go-socket.io/engineio/frame
+github.com/googollee/go-socket.io/engineio/packet
+github.com/googollee/go-socket.io/engineio/payload
+github.com/googollee/go-socket.io/engineio/session
+github.com/googollee/go-socket.io/engineio/transport
+github.com/googollee/go-socket.io/engineio/transport/polling
+github.com/googollee/go-socket.io/engineio/transport/utils
+github.com/googollee/go-socket.io/engineio/transport/websocket
+github.com/googollee/go-socket.io/parser
+# github.com/gorilla/websocket v1.4.2
+github.com/gorilla/websocket
